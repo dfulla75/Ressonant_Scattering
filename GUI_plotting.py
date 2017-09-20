@@ -10,7 +10,7 @@ PARAMS_total = []
 
 current_directory = os.getcwd()
 
-python_file = 'python 20_12_16_plotting.py'
+python_file = 'python Ressonant_scattering_visualization.py'
 
 class Ressonant_P09(Qt.QWidget):
 
